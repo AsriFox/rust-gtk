@@ -1,0 +1,5 @@
+[workspace]
+members = ["test-ui", "glium-render"]
+
+# [profile.dev]
+# incremental = true

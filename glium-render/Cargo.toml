@@ -1,0 +1,13 @@
+[package]
+name = "glium-render"
+version = "0.1.0"
+authors = ["AsriFox"]
+edition = "2021"
+
+[dependencies]
+gtk = { package = "gtk4", version = "*" }
+adw = { package = "libadwaita", version = "*" }
+
+glium = "0.31.0"
+epoxy = "0.1.0"
+libloading = "0.7.3"
